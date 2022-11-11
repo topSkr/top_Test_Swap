@@ -37,7 +37,7 @@ yarn
 ### Run
 
 ```bash
-yarn start
+yarn start ///string
 ```
 
 ### Configuring the environment (optional)
