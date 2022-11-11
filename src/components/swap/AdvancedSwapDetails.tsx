@@ -1,4 +1,4 @@
-import { Trade, TradeType } from 'mapswapv2-sdk'
+import { Trade, TradeType } from 'maptestswapv2-sdk'
 import React, { useContext } from 'react'
 import { ThemeContext } from 'styled-components'
 import { Field } from '../../state/swap/actions'

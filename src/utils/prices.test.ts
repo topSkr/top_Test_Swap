@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from 'mapswapv2-sdk'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from 'maptestswapv2-sdk'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Pair, Token, Trade } from 'mapswapv2-sdk'
+import { Currency, CurrencyAmount, Pair, Token, Trade } from 'maptestswapv2-sdk'
 import flatMap from 'lodash.flatmap'
 import { useMemo } from 'react'
 

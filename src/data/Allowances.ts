@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from 'mapswapv2-sdk'
+import { Token, TokenAmount } from 'maptestswapv2-sdk'
 import { useMemo } from 'react'
 
 import { useTokenContract } from '../hooks/useContract'

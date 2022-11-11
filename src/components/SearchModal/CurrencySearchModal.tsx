@@ -1,4 +1,4 @@
-import { Currency } from 'mapswapv2-sdk'
+import { Currency } from 'maptestswapv2-sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import ReactGA from 'react-ga'
 import useLast from '../../hooks/useLast'

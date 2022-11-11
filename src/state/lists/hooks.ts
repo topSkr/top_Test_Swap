@@ -1,4 +1,4 @@
-import { ChainId, Token } from 'mapswapv2-sdk'
+import { ChainId, Token } from 'maptestswapv2-sdk'
 import { Tags, TokenInfo, TokenList } from '@uniswap/token-lists'
 import { useMemo } from 'react'
 import { useSelector } from 'react-redux'

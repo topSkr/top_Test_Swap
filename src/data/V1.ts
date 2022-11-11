@@ -14,7 +14,7 @@ import {
   Trade,
   TradeType,
   WETH
-} from 'mapswapv2-sdk'
+} from 'maptestswapv2-sdk'
 import { useMemo } from 'react'
 import { useActiveWeb3React } from '../hooks'
 import { useAllTokens } from '../hooks/Tokens'

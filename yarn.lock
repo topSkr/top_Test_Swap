@@ -10043,10 +10043,10 @@
   dependencies:
     "object-visit" "^1.0.0"
 
-"mapswapv2-sdk@^1.0.0":
-  "integrity" "sha512-CkxfIYCmp1FvoksS4GdOymiIQ9uYin6j62w4riNnrQvf+Wht7+cQkhKxEjvzHlgPUl+fdMD2VjP6vfKkmq25WQ=="
-  "resolved" "https://registry.npmjs.org/mapswapv2-sdk/-/mapswapv2-sdk-1.0.0.tgz"
-  "version" "1.0.0"
+"maptestswapv2-sdk@^1.0.1":
+  "integrity" "sha512-Dmu2JPY2CBc3T6NL98ZYOG7+mRYV+yxNFbF0173SP6rQMOQ9knucUT9n59AAIEiOLh1wd1EvcpHtuxeI10QCZQ=="
+  "resolved" "https://registry.npmjs.org/maptestswapv2-sdk/-/maptestswapv2-sdk-1.0.1.tgz"
+  "version" "1.0.1"
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     "big.js" "^5.2.2"

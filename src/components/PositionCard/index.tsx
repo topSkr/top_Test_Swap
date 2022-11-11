@@ -1,4 +1,4 @@
-import { JSBI, Pair, Percent } from 'mapswapv2-sdk'
+import { JSBI, Pair, Percent } from 'maptestswapv2-sdk'
 import { darken } from 'polished'
 import React, { useState } from 'react'
 import { ChevronDown, ChevronUp } from 'react-feather'

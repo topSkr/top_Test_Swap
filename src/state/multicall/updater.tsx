@@ -169,7 +169,7 @@ export default function Updater(): null {
             // accumulates the length of all previous indices
             const firstCallKeyIndex = chunkedCalls.slice(0, index).reduce<number>((memo, curr) => memo + curr.length, 0)
             const lastCallKeyIndex = firstCallKeyIndex + returnData.length
-
+            console.log(chainId)
             dispatch(
               updateMulticallResults({
                 chainId,

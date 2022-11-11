@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from 'mapswapv2-sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from 'maptestswapv2-sdk'
 import React from 'react'
 import { Text } from 'rebass'
 import { ButtonPrimary } from '../../components/Button'

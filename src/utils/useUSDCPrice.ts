@@ -1,4 +1,4 @@
-import { ChainId, Currency, currencyEquals, JSBI, Price, WETH } from 'mapswapv2-sdk'
+import { ChainId, Currency, currencyEquals, JSBI, Price, WETH } from 'maptestswapv2-sdk'
 import { useMemo } from 'react'
 import { USDC } from '../constants'
 import { PairState, usePairs } from '../data/Reserves'

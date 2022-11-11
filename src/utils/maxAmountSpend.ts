@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from 'mapswapv2-sdk'
+import { CurrencyAmount, ETHER, JSBI } from 'maptestswapv2-sdk'
 import { MIN_ETH } from '../constants'
 
 /**

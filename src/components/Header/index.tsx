@@ -1,4 +1,4 @@
-import { ChainId } from 'mapswapv2-sdk'
+import { ChainId } from 'maptestswapv2-sdk'
 import React from 'react'
 import { isMobile } from 'react-device-detect'
 import { Text } from 'rebass'

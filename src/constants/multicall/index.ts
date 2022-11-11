@@ -1,4 +1,4 @@
-import { ChainId } from 'mapswapv2-sdk'
+import { ChainId } from 'maptestswapv2-sdk'
 import MULTICALL_ABI from './abi.json'
 
 const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {
@@ -11,5 +11,3 @@ const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {
 }
 
 export { MULTICALL_ABI, MULTICALL_NETWORKS }
-
-// ss

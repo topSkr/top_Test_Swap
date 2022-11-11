@@ -108,6 +108,6 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "gh-pages": "^4.0.0",
-    "mapswapv2-sdk": "^1.0.0"
+    "maptestswapv2-sdk": "^1.0.1"
   }
 }

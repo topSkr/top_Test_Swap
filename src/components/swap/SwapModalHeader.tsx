@@ -1,4 +1,4 @@
-import { Trade, TradeType } from 'mapswapv2-sdk'
+import { Trade, TradeType } from 'maptestswapv2-sdk'
 import React, { useContext, useMemo } from 'react'
 import { ArrowDown, AlertTriangle } from 'react-feather'
 import { Text } from 'rebass'

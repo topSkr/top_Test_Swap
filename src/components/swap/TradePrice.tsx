@@ -1,5 +1,5 @@
 import React from 'react'
-import { Price } from 'mapswapv2-sdk'
+import { Price } from 'maptestswapv2-sdk'
 import { useContext } from 'react'
 import { Repeat } from 'react-feather'
 import { Text } from 'rebass'
